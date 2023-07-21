@@ -4,12 +4,11 @@
   align-items: center;
 }
 .instructions{
-  display:  none;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.instructions img{
+.instructions.img{
   width: 100px;
   height: 100px;
 }
