@@ -74,9 +74,9 @@ export default function Listing() {
     <div className="container">
     <div className="row">
       <div className='col-12'>
-          <Link className='btn btn-primary mb-2 float-end' to={''}>
+          <Button className='btn btn-primary mb-2 float-end' to={''}>
               Create Product
-          </Link>
+          </Button>
       </div>
     <div className="col-12">
       <div className="card card-body">
